@@ -1,4 +1,4 @@
-C:\Users\Asus>curl https://api.github.com/repos/sakshi56121/mcino-Introduction-to-Git-and-GitHub
+C:\Users\Asus\mcino-Introduction-to-Git-and-GitHub>curl https://api.github.com/repos/sakshi56121/mcino-Introduction-to-Git-and-GitHub
 {
   "id": 1355033490,
   "node_id": "R_kgDOUMQrkg",
@@ -67,17 +67,17 @@ C:\Users\Asus>curl https://api.github.com/repos/sakshi56121/mcino-Introduction-t
   "releases_url": "https://api.github.com/repos/sakshi56121/mcino-Introduction-to-Git-and-GitHub/releases{/id}",
   "deployments_url": "https://api.github.com/repos/sakshi56121/mcino-Introduction-to-Git-and-GitHub/deployments",
   "created_at": "2026-09-02T17:16:38Z",
-  "updated_at": "2026-09-02T17:16:38Z",
-  "pushed_at": "2025-09-04T10:02:47Z",
+  "updated_at": "2026-09-02T18:42:12Z",
+  "pushed_at": "2026-09-02T18:41:55Z",
   "git_url": "git://github.com/sakshi56121/mcino-Introduction-to-Git-and-GitHub.git",
   "ssh_url": "git@github.com:sakshi56121/mcino-Introduction-to-Git-and-GitHub.git",
   "clone_url": "https://github.com/sakshi56121/mcino-Introduction-to-Git-and-GitHub.git",
   "svn_url": "https://github.com/sakshi56121/mcino-Introduction-to-Git-and-GitHub",
   "homepage": null,
-  "size": 18,
+  "size": 22,
   "stargazers_count": 0,
   "watchers_count": 0,
-  "language": null,
+  "language": "Python",
   "has_issues": false,
   "has_projects": true,
   "has_downloads": false,
@@ -195,7 +195,7 @@ C:\Users\Asus>curl https://api.github.com/repos/sakshi56121/mcino-Introduction-t
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 9520,
+    "forks_count": 9521,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -216,7 +216,7 @@ C:\Users\Asus>curl https://api.github.com/repos/sakshi56121/mcino-Introduction-t
 
     ],
     "visibility": "public",
-    "forks": 9520,
+    "forks": 9521,
     "open_issues": 48,
     "watchers": 16,
     "default_branch": "main"
@@ -306,7 +306,7 @@ C:\Users\Asus>curl https://api.github.com/repos/sakshi56121/mcino-Introduction-t
     "has_wiki": true,
     "has_pages": false,
     "has_discussions": false,
-    "forks_count": 9520,
+    "forks_count": 9521,
     "mirror_url": null,
     "archived": false,
     "disabled": false,
@@ -327,11 +327,11 @@ C:\Users\Asus>curl https://api.github.com/repos/sakshi56121/mcino-Introduction-t
 
     ],
     "visibility": "public",
-    "forks": 9520,
+    "forks": 9521,
     "open_issues": 48,
     "watchers": 16,
     "default_branch": "main"
   },
-  "network_count": 9520,
+  "network_count": 9521,
   "subscribers_count": 0
 }
