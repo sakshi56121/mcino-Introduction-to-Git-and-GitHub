@@ -1,0 +1,4 @@
+git branch -v
+* bug-fix-revert a082f84 Revert Fix typo
+  bug-fix-typo   ba01eaf Fix typo
+  main           ba01eaf [ahead 1] Fix typo
